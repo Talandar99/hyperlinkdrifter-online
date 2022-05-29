@@ -1,5 +1,5 @@
 # hyperlinkdrifter-online
-    webowa wersja aplikacji pod tym linkiem: https://talandar99.github.io/hyperlinkdrifter-online/
+webowa wersja aplikacji pod tym linkiem: https://talandar99.github.io/hyperlinkdrifter-online/
 
 ## Do czego służy aplikacja?
 - w założeniach aplikacja ma być hubem do hiperłączy adresów mail itd, ma pozwolić na szybkie zalogownaie się z dowolnego miejsca oraz natychmiastowe przekierowanie w porządane miejsce, na bazie wcześniej przygotowanych bibliotek. Opis tego jak towrzyć biblioteki znajduje się bezpośrednio w aplikacji
