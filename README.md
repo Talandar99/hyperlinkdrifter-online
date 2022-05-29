@@ -1,4 +1,4 @@
-# hyperlinkdrifter-online
+# Hyperlink Drifter
 webowa wersja aplikacji pod tym linkiem: https://talandar99.github.io/hyperlinkdrifter-online/
 
 ## Do czego służy aplikacja?
