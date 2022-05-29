@@ -16,4 +16,4 @@ webowa wersja aplikacji pod tym linkiem: https://talandar99.github.io/hyperlinkd
 - [ ] udostępnianie bibliotek znajomym na podstawie klucza
 - [ ] Shortlinki
 - [ ] tłumacznie na język Ang
-- [ ] Udostępnienie w Sklepie Play
+- [ ] Udostępnienie aplikacji w Sklepie Play
